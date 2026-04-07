@@ -1,125 +1,205 @@
+<!-- HEADER -->
 <div align="center">
-  <h1>👋 Hello, I'm Shahrear Emoon</h1>
-  <h3>Full Stack Web Developer | Building Digital Experiences</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,100:0d0d2b&height=220&section=header&text=Shahrear&fontSize=72&fontColor=e2e8f0&fontAlignY=40&desc=I%20build%20things%20that%20actually%20work.&descAlignY=62&descSize=17&animation=fadeIn&fontAlign=50" width="100%"/>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58a6ff&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%40+Innovative+IT+Solutions;Laravel+%2B+React.js+%7C+Chittagong%2C+Bangladesh;Building+ERPs%2C+Portals+%26+Web+Apps;Product+Thinker+%7C+Problem+Solver+First" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-RMG%20%7C%20SaaS%20%7C%20Automation-58a6ff?style=flat&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Chittagong%2C%20Bangladesh-green?style=flat&labelColor=0d1117"/>
+</div>
+
+---
+
+## `whoami`
+
+```js
+const shahrear = {
+  role        : "Full-Stack Developer & Technical Project Lead",
+  company     : "Innovative IT Solutions — Chittagong, BD",
+  stack       : ["Laravel", "React.js", "Next.js", "MySQL", "WordPress"],
+  currentlyOn : "GarmentOS — ERP for the RMG industry",
+  alsoStudying: "Preliminary to Masters, Business Finance",
+  freelance   : ["Fiverr", "Upwork"],
+  philosophy  : "Understand the business first. Then write the code.",
+};
+```
+
+---
+
+## 🧍 A bit more context
+
+I'm not the kind of developer who just takes a ticket and codes it. I sit with the client, learn how their business actually runs, and then figure out what system would make their life easier. That's led me to some unusual projects — a full ERP for a garments factory, a buyer portal with custom approval workflows, email automation systems, and everything in between.
+
+I lead tech at **Innovative IT Solutions**, where we work across industries — but lately we've been going deep into the **RMG (Ready-Made Garments)** sector. Bangladesh's garments industry is massive and largely underserved by good software. There's a lot of work to do there.
+
+Outside the agency, I take freelance projects selectively. If the problem is interesting and the client is serious — I'm in.
+
+> 💬 *"Kono system build korar age, amar client-er sob process notebook-e likhi. Tarpor code kori."*
+
+---
+
+## 🛠 Tech I Actually Use
+
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+**CMS & Builders**
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+<img src="https://img.shields.io/badge/ACF%20%2B%20CPT%20UI-444?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
+
+**Database & DevOps**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 📦 Selected Work
 
-Passionate web developer with expertise in building modern, scalable web applications. I love turning complex problems into simple, beautiful solutions. Currently focused on full-stack development using cutting-edge technologies.
+> Real projects. Real clients. Real problems solved.
 
-- 🔭 Currently working on **[Your Current Project]**
-- 🌱 Learning **[New Technology You're Learning]**
-- 💬 Ask me about **JavaScript, React, Node.js, and Web Performance**
-- 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🏭 GarmentOS</h3>
+      <p>Full ERP system built for a garments factory in Bangladesh. Covers 10 modules — HR, Payroll, Production, Quality Control, Buyer Portal, and Export Documentation. Designed to comply with Bangladesh Labor Law out of the box.</p>
+      <p><code>React.js</code> <code>Laravel</code> <code>MySQL</code></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>📧 MailFlow</h3>
+      <p>Web-based email automation platform with multi-provider architecture, Gmail API integration, and an n8n-powered workflow engine. Built for teams that need email sequences without paying enterprise SaaS prices.</p>
+      <p><code>React.js</code> <code>Laravel 11</code> <code>n8n</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔗 RMG Buyer Portal</h3>
+      <p>Standalone portal for RMG buyers — registration, multi-step approval flows, and 7 dedicated modules. Designed around a "Precision Dark / Industrial Luxury" aesthetic with teal-mint accents.</p>
+      <p><code>React.js</code> <code>Laravel</code> <code>MySQL</code></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛒 FreshMart</h3>
+      <p>Online grocery delivery platform for a local retailer — product management, delivery zone logic, order tracking, and an admin dashboard that non-technical staff can actually use.</p>
+      <p><code>React.js</code> <code>Laravel</code> <code>MySQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎬 Actor Portfolio — Imtiaz Barshon</h3>
+      <p>Cinematic dark-themed portfolio for a Bangladeshi actor — WebGL fluid cursor, scroll-triggered animations, filmography cards with Chorki CDN media, built natively in Elementor.</p>
+      <p><code>HTML/CSS/JS</code> <code>WebGL</code> <code>Elementor</code></p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>✅ Taskopia</h3>
+      <p>AI-powered task management SaaS with a glassmorphism UI. Designed for small distributed teams who want something between a sticky note and a full PM tool.</p>
+      <p><code>React.js</code> <code>Laravel</code> <code>AI Integration</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1a4e&ring=58a6ff&fire=ff6b35&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" width="55%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=1a1a4e&point=58a6ff&area=true&area_color=1a1a4e&hide_border=true" width="92%"/>
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🧠 Currently Exploring
 
-### 🌟 [Project Name 1](https://github.com/yourusername/project1)
-A brief description of what this project does and the technologies used.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Features:** Feature 1, Feature 2, Feature 3
-- [Live Demo](https://project1-demo.com) | [Source Code](https://github.com/yourusername/project1)
-
-### 🌟 [Project Name 2](https://github.com/yourusername/project2)
-A brief description of what this project does and the technologies used.
-- **Tech Stack:** Next.js, TypeScript, PostgreSQL
-- **Features:** Feature 1, Feature 2, Feature 3
-- [Live Demo](https://project2-demo.com) | [Source Code](https://github.com/yourusername/project2)
-
-### 🌟 [Project Name 3](https://github.com/yourusername/project3)
-A brief description of what this project does and the technologies used.
-- **Tech Stack:** Vue.js, Express, Firebase
-- **Features:** Feature 1, Feature 2, Feature 3
-- [Live Demo](https://project3-demo.com) | [Source Code](https://github.com/yourusername/project3)
+- **System Design** — how to architect things that don't break when they scale
+- **Queue + Background Jobs** in Laravel for heavy async workloads
+- **Next.js App Router** for projects where SEO actually matters
+- **AI workflow integration** into real business processes (not just chatbots)
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+## 💼 Freelance — How I Work
+
+I'm available for select projects on **Fiverr** and **Upwork**. Here's what I'm good at:
+
+- ✅ Laravel backend / REST API development
+- ✅ React.js / Next.js frontend
+- ✅ WordPress — custom theme, Elementor, ACF, WooCommerce
+- ✅ System architecture & PRD writing for complex web apps
+- ✅ RMG/garments industry software *(this is a niche — I know it well)*
+
+I don't take every project. If the scope is unclear or the timeline is unrealistic, I'll say it upfront. I'd rather say no early than deliver something half-baked.
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
-I'm always interested in collaborating on exciting projects or discussing web development. Feel free to reach out!
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<p>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome"/>
+  <a href="https://fiverr.com/YOUR_FIVERR">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://upwork.com/freelancers/YOUR_UPWORK">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
-
 ---
 
 <div align="center">
-  <i>Happy Coding! 💻</i>
+  <sub>Built with ☕ and a lot of <code>git commit -m "fix: the thing"</code> moments — Chittagong, Bangladesh</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,40:1a1a4e,100:0f0c29&height=100&section=footer" width="100%"/>
 </div>
